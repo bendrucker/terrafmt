@@ -14,7 +14,7 @@ A tool for extracting or formatting [Terraform](https://www.terraform.io/docs/) 
 Use Go to install directly into your `$GOBIN` directory (e.g. `$GOPATH/bin`):
 
 ```console
-go get github.com/katbyte/terrafmt
+go install github.com/katbyte/terrafmt@latest
 ```
 
 ## Usage
